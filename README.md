@@ -1,10 +1,8 @@
 ### 
 
-<h1 align="center">hola 👋- i'm curtain_</h1>
+<h1 align="center">hola</h1>
 
-I am a Java/C# developer/student also with an emphasis in System Administration and cyber security.
-I have experience working with the Spigot Minecraft API, with other areas of work in C# .NET, Linux/Windows server administration, etc.
-This is where I put my random things, so enjoy
+I sometimes do stuff with the Spigot/Bukkit APIs, some of that is demonstrated on this page.
 
-some code on here is absolute garbage, trust me my private repos are much better
+Some code on here is absolute garbage, trust me my private repos are much better
 
